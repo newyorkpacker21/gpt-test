@@ -1,0 +1,8 @@
+body {
+    background-color: #000000;
+    font-family: 'Courier', monospace;
+    color: #00FF00;
+}
+table, th, td {
+    border: 1px solid #00FF00;
+}
